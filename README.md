@@ -10,12 +10,16 @@ APKs used in the video:
 
 Briar:
 https://f-droid.org/packages/org.briarproject.briar.android/
+
 DeltaChat:
 https://delta.chat/en/
+
 LibreTorrent:
 https://f-droid.org/packages/org.proninyaroslav.libretorrent/
+
 NewPipe:
 https://f-droid.org/en/packages/org.schabi.newpipe/
+
 Syphon:
 https://f-droid.org/en/packages/org.tether.tether/
 
