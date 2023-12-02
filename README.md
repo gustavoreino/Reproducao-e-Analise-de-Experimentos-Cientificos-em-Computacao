@@ -3,8 +3,8 @@
 Article:
 https://ieeexplore.ieee.org/document/7962351
 
-Video explanation:
-
+Video:
+https://youtu.be/XY-zlwLOAhI
 
 ## Dependencies:
 
