@@ -1,4 +1,5 @@
 # Reproducao-e-Analise-de-Experimentos-Cientificos-em-Computacao
+
 Article:
 https://ieeexplore.ieee.org/document/7962351
 
@@ -10,7 +11,7 @@ Video explanation:
 QARK:
 https://github.com/linkedin/qark
 
-lxml 4.9.3 
+lxml:
 pip install lxml
 
 Beautifulsoup:
@@ -18,3 +19,9 @@ pip install beautifulsoup4
 
 Seaborn:
 pip install seaborn
+
+NumPy:
+pip install numpy
+
+MatPlotLib:
+pip install matplotlib
