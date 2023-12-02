@@ -31,7 +31,7 @@ pip install matplotlib
 
 ## Using the program
 
-Create an APKs folder and put you files in there.
+Create an APKs folder and put your apk files in there.
 
 Executing:
 ``` python3 experiment.py ```
