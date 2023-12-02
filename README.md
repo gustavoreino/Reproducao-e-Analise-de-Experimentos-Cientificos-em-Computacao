@@ -6,10 +6,13 @@ https://ieeexplore.ieee.org/document/7962351
 Video:
 https://youtu.be/XY-zlwLOAhI
 
-## Dependencies:
+## Dependencies
 
 QARK:
 https://github.com/linkedin/qark
+
+Python3:
+https://www.python.org/downloads/
 
 lxml:
 pip install lxml
@@ -25,3 +28,10 @@ pip install numpy
 
 MatPlotLib:
 pip install matplotlib
+
+## Using the program
+
+Create an APKs folder and put you files in there.
+
+Executing:
+``` python3 experiment.py ```
